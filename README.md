@@ -3,7 +3,7 @@
 ### Motivo 💡💡
 Este proyecto esta pensado para comprender de una mejor manera los conceptos de nodejs
 
-###Descripción 📝📝
+### Descripción 📝📝
 Este proyecto se trata de una base de datos de dragon ball, en el cual se busca crear una pagina de administrador el cual agregue los personajes con descripciones, imagenes, etc.
 Esto para subir la base de datos en un formato JSON y utilizar la informacion para un futuro proyecto.
 
